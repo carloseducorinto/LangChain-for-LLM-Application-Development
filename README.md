@@ -19,3 +19,6 @@ Install the required Python packages using pip:
 ```bash
 pip install python-dotenv
 pip install openai
+
+
+## This code was originated from the LangChain for LLM Application Development course by DeepLearning.ai
