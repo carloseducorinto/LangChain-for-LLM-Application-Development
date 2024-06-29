@@ -47,5 +47,27 @@ pip install langchain openai google-search-results
 ```
 
 
+# L3_Chains.ipynb
+
+## LangChain: Chain Implementation
+
+This repository contains a Jupyter notebook that demonstrates how to implement chains using the LangChain framework. The notebook covers the following topics:
+
+- Setting up the LangChain environment
+- Implementing chain mechanisms
+- Examples of using chains in language model interactions
+
+## Setup
+
+To get started, you need to install the required packages and set up your OpenAI API key.
+
+### Installation
+
+Install the required Python packages using pip:
+
+```bash
+pip install langchain openai google-search-results
+```
+
 
 Note: These codes were originated from the LangChain for LLM Application Development course by DeepLearning.ai
