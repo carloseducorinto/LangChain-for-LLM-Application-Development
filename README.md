@@ -49,6 +49,10 @@ pip install langchain openai google-search-results
 
 # L3_Chains.ipynb
 
+What is Router Langchain
+
+Router Langchain are created to manage and route prompts based on specific conditions. They can be used to create complex workflows and give more control over how the AI model’s response.
+
 ## LangChain: Chain Implementation
 
 This repository contains a Jupyter notebook that demonstrates how to implement chains using the LangChain framework. The notebook covers the following topics:
