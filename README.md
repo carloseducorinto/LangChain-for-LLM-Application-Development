@@ -1,4 +1,6 @@
-# LangChain: Models, Prompts, and Output Parsers
+# L1_Model_prompt_parser.ipynb 
+
+## LangChain: Models, Prompts, and Output Parsers
 
 This repository contains a Jupyter notebook that demonstrates how to interact with language models using the LangChain framework. The notebook covers the following topics:
 
@@ -19,6 +21,6 @@ Install the required Python packages using pip:
 ```bash
 pip install python-dotenv
 pip install openai
+```
 
-
-## This code was originated from the LangChain for LLM Application Development course by DeepLearning.ai
+Note: This code was originated from the LangChain for LLM Application Development course by DeepLearning.ai
